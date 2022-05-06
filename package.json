@@ -1,5 +1,7 @@
 {
   "devDependencies": {
+    "@interactors/html": "^1.0.0-rc1.2",
+    "@interactors/with-cypress": "^1.0.0-rc1.1",
     "cypress": "^9.6.0"
   }
 }
