@@ -16,6 +16,8 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 import './folio'
+// cypress/support/index.js
+import '@interactors/with-cypress';
 
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
